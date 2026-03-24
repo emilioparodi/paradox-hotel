@@ -1,0 +1,107 @@
+{
+  "en": {
+    "ui": {
+      "inventory": "Inventory",
+      "talk": "Talk to",
+      "map": "Schematic",
+      "floor_b1": "Basement",
+      "floor_gf": "Ground Floor",
+      "floor_1f": "First Floor",
+      "you_are_here": "You are here"
+    },
+    "rooms": {
+      "room_404": "Room 404",
+      "corridor": "Dim Corridor",
+      "hall": "Grand Hall",
+      "kitchen": "Industrial Kitchen",
+      "room_202": "Room 202",
+      "suite_500": "Suite 500",
+      "basement": "Boiler Room",
+      "white_room": "The White Room"
+    },
+    "items": {
+      "elegant_tea": "Elegant Tea",
+      "room_202_key": "Room 202 Key",
+      "engineering_badge": "Engineering Badge",
+      "golden_key": "Golden Key",
+      "old_diary": "Old Diary",
+      "rusty_screwdriver": "Rusty Screwdriver",
+      "access_log": "Access Log",
+      "source_fragment": "Source Fragment"
+    },
+    "dialogue": {
+      "barista_tea_response": "Heat is not within my jurisdiction, Sir. I will unlock access to the Kitchen for you. Be wary of the Chef: he does not care for undocumented intrusions.",
+      "backdoor_protocol": "Backdoor Protocol Engaged. The Portiere can now facilitate the exit."
+    }
+  },
+  "it": {
+    "ui": {
+      "inventory": "Inventario",
+      "talk": "Parla con",
+      "map": "Planimetria",
+      "floor_b1": "Seminterrato",
+      "floor_gf": "Piano Terra",
+      "floor_1f": "Primo Piano",
+      "you_are_here": "Sei qui"
+    },
+    "rooms": {
+      "room_404": "Stanza 404",
+      "corridor": "Corridoio Buio",
+      "hall": "Atrio Principale",
+      "kitchen": "Cucina Industriale",
+      "room_202": "Stanza 202",
+      "suite_500": "Suite 500",
+      "basement": "Centrale Termica",
+      "white_room": "La Stanza Bianca"
+    },
+    "items": {
+      "elegant_tea": "Tè Elegante",
+      "room_202_key": "Chiave Stanza 202",
+      "engineering_badge": "Distintivo Ingegneria",
+      "golden_key": "Chiave Dorata",
+      "old_diary": "Vecchio Diario",
+      "rusty_screwdriver": "Cacciavite Arrugginito",
+      "access_log": "Registro Accessi",
+      "source_fragment": "Frammento Sorgente"
+    },
+    "dialogue": {
+      "barista_tea_response": "Il calore non è di mia competenza, Signore. Le sbloccherò l'accesso per la cucina. Stia attento allo Chef: non ama le intrusioni poco documentate.",
+      "backdoor_protocol": "Protocollo Backdoor Attivato. Il Portiere può ora procedere con l'uscita."
+    }
+  },
+  "es": {
+    "ui": {
+      "inventory": "Inventario",
+      "talk": "Hablar con",
+      "map": "Plano",
+      "floor_b1": "Sótano",
+      "floor_gf": "Planta Baja",
+      "floor_1f": "Primer Piso",
+      "you_are_here": "Estás aquí"
+    },
+    "rooms": {
+      "room_404": "Habitación 404",
+      "corridor": "Pasillo Oscuro",
+      "hall": "Gran Vestíbulo",
+      "kitchen": "Cocina Industrial",
+      "room_202": "Habitación 202",
+      "suite_500": "Suite 500",
+      "basement": "Cuarto de Calderas",
+      "white_room": "La Habitación Blanca"
+    },
+    "items": {
+      "elegant_tea": "Té Elegante",
+      "room_202_key": "Llave Habitación 202",
+      "engineering_badge": "Placa de Ingeniería",
+      "golden_key": "Llave Dorada",
+      "old_diary": "Diario Viejo",
+      "rusty_screwdriver": "Destornillador Oxidado",
+      "access_log": "Registro de Acceso",
+      "source_fragment": "Fragmento de Origen"
+    },
+    "dialogue": {
+      "barista_tea_response": "El calor no es de mi competencia, Señor. Le desbloquearé el acceso a la cocina. Tenga cuidado con el Chef: no le gustan las intrusiones poco documentadas.",
+      "backdoor_protocol": "Protocollo Backdoor Activado. El Portiere puede ahora proceder con la salida."
+    }
+  }
+}
