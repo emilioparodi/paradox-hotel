@@ -4,7 +4,7 @@
 
 [ENG] - ENGLISH
 ---------------------------------------------------------
-STORY & CONCEPT
+STORY
 "Welcome to Paradox Hotel" is not a physical place. It is a sentient 
 digital architecture, a recursive reality management software that 
 has stopped responding to external commands. The player controls 
@@ -12,7 +12,7 @@ SAMUEL, a 404 Error (Not Found). Having materialized in Room 404,
 Samuel is a rogue fragment of code wandering the system in search 
 of an exit that logic does not provide.
 
-SYSTEM AGENTS (NPCs)
+SYSTEM AGENTS
 * THE CONCIERGE (Kernel): The primary interface. Manages access.
 * THE ELEGANT WOMAN (Redirect/Cache): Redundant data stuck in the lounge.
 * THE MAN IN 202 (Validation Process/OK Gate): The verification 
@@ -27,7 +27,7 @@ SYSTEM AGENTS (NPCs)
 
 [ITA] - ITALIANO
 ---------------------------------------------------------
-STORIA E CONCETTO
+STORIA
 "Welcome to Paradox Hotel" non è un luogo fisico. È un'architettura 
 digitale senziente, un software di gestione di realtà ricorsive che 
 ha smesso di rispondere ai comandi. Il giocatore interpreta SAMUEL, 
@@ -35,7 +35,7 @@ un Errore 404 (Not Found). Materializzatosi nella Stanza 404, Samuel
 è un frammento di codice che vaga nel sistema cercando una via 
 d'uscita che la logica non prevede.
 
-AGENTI DEL SISTEMA (NPC)
+AGENTI DEL SISTEMA
 * IL PORTIERE (Kernel): L'interfaccia principale. Gestisce gli accessi.
 * LA DONNA ELEGANTE (Redirect/Cache): Dati ridondanti nel salone.
 * L'UOMO DELLA 202 (Validation Process/OK Gate): Il processo di 
@@ -50,7 +50,7 @@ AGENTI DEL SISTEMA (NPC)
 
 [ESP] - ESPAÑOL
 ---------------------------------------------------------
-HISTORIA Y CONCEPTO
+HISTORIA
 "Welcome to Paradox Hotel" no es un lugar físico. Es una arquitectura 
 digital sintiente, un software de gestión de realidades recursivas 
 que ha dejado de responder a los comandos. El jugador interpreta a 
@@ -58,7 +58,7 @@ SAMUEL, un Error 404 (Not Found). Materializado en la Habitación 404,
 Samuel es un fragmento de código que deambula por el sistema buscando 
 una salida que la lógica no prevé.
 
-AGENTI DEL SISTEMA (NPC)
+AGENTI DEL SISTEMA
 * EL CONSERJE (Kernel): La interfaz principal. Gestiona los accesos.
 * LA MUJER ELEGANTE (Redirect/Cache): Datos redundantes en el salón.
 * EL HOMBRE DE LA 202 (Validation Process/OK Gate): El proceso de 
