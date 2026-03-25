@@ -9,7 +9,8 @@ body {
   background-color: #050505;
   color: #e0e0e0;
   margin: 0;
-  overflow: hidden;
+  overflow-x: hidden;
+  min-height: 100dvh;
 }
 
 .glitch {
